@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutineExcercise2</string>
+    <string name="textview1">Number to be shown here</string>
+    <string name="button1">Input</string>
+</resources>
